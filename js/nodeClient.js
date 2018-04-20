@@ -1,4 +1,4 @@
-var socket = io.connect( 'http://182.68.169.116:1034' );
+var socket = io.connect( 'http://10.129.21.92:8080' );
 
 $( "#SendButton" ).click( function() {
 	var msg = $( "#messageText" ).val();
