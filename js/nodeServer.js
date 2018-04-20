@@ -16,4 +16,4 @@ io.sockets.on( 'connection', function( client ) {
 	});
 });
 
-server.listen( 1034 );
+server.listen( 8080 );
